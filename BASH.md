@@ -8,4 +8,4 @@
 ```shell
 findimagedupes -R -t=90 -i 'VIEW(){ for f in "$@";do echo \"$f\"; done; echo "---"; }'  -- * > dupes.txt
 ```
-[see in more detail](http://www.jhnc.org/findimagedupes/manpage.html#EXAMPLES)
+[see more detail](http://www.jhnc.org/findimagedupes/manpage.html#EXAMPLES)
